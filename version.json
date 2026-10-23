@@ -1,0 +1,13 @@
+{
+  "android": {
+    "code": 3,
+    "name": "1.0.2",
+    "url": "https://raw.githubusercontent.com/salemalharari/ladice-updates/main/files/LadicePOS-1.0.2.apk",
+    "notes": "تحسينات وإصلاحات"
+  },
+  "windows": {
+    "name": "1.0.2",
+    "url": "https://raw.githubusercontent.com/salemalharari/ladice-updates/main/files/LadicePOS-Setup-1.0.2.exe",
+    "notes": "تحسينات وإصلاحات"
+  }
+}
